@@ -8,7 +8,10 @@
   "🤔": "Needs help with Backend Development",
   "💬": {
     "isAlive": false,
-    "isSmart": Super
+    "debuggingAt2AM": true,
+    "javascriptConfusesMe": "sometimes",
+    "openToFeedback": true
+
   },
   "📫": {
     "email": "rafikg322@gmail.com",
