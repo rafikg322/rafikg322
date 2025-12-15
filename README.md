@@ -1,25 +1,17 @@
 ## Hi there 👋
 
-
-"🔭" {
-  I’m currently working on : [focusing on graduating LMD in CS] my last year 🥳🥳🥳
-}
-"🌱" {
-  I’m currently Learning and : [building projects in Web Development]
-}
-"👯" {
-  I’m looking to collaborate on : [small Web Development Projects]
-}
-"🤔" {
-  I’m looking for help with : [Backend Development}
-}
-"💬" {
-  "Ask me about" : {
-    "isAlive" : False,
-    "isSmart" : Fasle
+```json
+{
+  "🔭": "Graduating LMD in CS (last year 🥳)",
+  "🌱": "Learning Web Development & building projects",
+  "👯": "Looking to collaborate on small web projects",
+  "🤔": "Needs help with Backend Development",
+  "💬": {
+    "isAlive": false,
+    "isSmart": Super
+  },
+  "📫": {
+    "email": "rafikg322@gmail.com",
+    "isSpam": "plsNo"
   }
-}
-"📫" {
-  "How to reach me" : "rafikg322@gmail.com",
-  "isSpam" : "PlsNo"
 }
