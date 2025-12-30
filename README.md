@@ -9,7 +9,7 @@
   "💬": {
     "isAlive": false,
     "debuggingAt2AM": true,
-    "javascriptConfusesMe": "sometimes",
+    "javascriptConfusesMe": true,
     "openToFeedback": true
 
   },
